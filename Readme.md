@@ -1,3 +1,6 @@
+Big TODO:
+Update code to work with Express 4.0
+
 # Screenshot application
 
   A simple screenshot application & web service powered by [Express](http://expressjs.com), [Redis](http://redis.io), [node-canvas](http://github.com/learnboost/node-canvas), [palette](http://github.com/visionmedia/palette), and [PhantomJS](http://www.phantomjs.org/).
